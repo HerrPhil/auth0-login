@@ -10,6 +10,7 @@ of several authentication solutions, that can be included in new app projects.
 I found this 2-part series of articles.
 
 [part 1](https://auth0.com/blog/android-authentication-jetpack-compose-part-1/)
+
 [part 2](https://auth0.com/blog/android-authentication-jetpack-compose-part-2/)
 
 For a technical series, these articles are written in a way to make the reader/coder
